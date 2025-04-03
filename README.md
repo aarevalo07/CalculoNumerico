@@ -1,5 +1,5 @@
 # CalculoNumerico
-\n Andres Arevalo
+Andres Arevalo
 Dylan Sosa
 Daniel Lavi
 Jeison Perdomo
